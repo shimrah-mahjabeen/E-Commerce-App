@@ -1,0 +1,88 @@
+{
+  "products": {
+    "Electronics": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Powerful laptop for all your computing needs.",
+        "price": 999.99
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "High-end smartphone with advanced features.",
+        "price": 799.99
+      },
+      {
+        "id": 3,
+        "name": "PhotoCamera",
+        "description": "Capture your products with high-quality camera feature",
+        "price": 799.99
+      },
+      {
+        "id": 4,
+        "name": "Watch",
+        "description": "Discover a world of timeless elegance through our watches.",
+        "price": 799.99
+      },
+      {
+        "id": 5,
+        "name": "Scanner",
+        "description": "Scan, Shop, Seamlessly",
+        "price": 799.99
+      },
+      {
+        "id": 6,
+        "name": "Fax",
+        "description": "High-end Fax with advanced features.",
+        "price": 799.99
+      },
+      {
+        "id": 7,
+        "name": "CoffeeMaker",
+        "description": "Brew delicious coffee at home with ease.",
+        "price": 799.99
+      },
+      {
+        "id": 8,
+        "name": "Microwave",
+        "description": "High-end microwave with advanced features.",
+        "price": 799.99
+      }
+    ],
+    "Sports": [
+      {
+        "id": 6,
+        "name": "SportsFootball",
+        "description": "Amazing football for everyday games.",
+        "price": 19.99
+      },
+      {
+        "id": 7,
+        "name": "SportsCricket",
+        "description": "Play your cricket with our bat and ball.",
+        "price": 39.99
+      },
+      {
+        "id": 8,
+        "name": "SportsHockey",
+        "description": "Play hocket with our hockey stick",
+        "price": 799.99
+      }
+    ],
+    "Home Goods": [
+      {
+        "id": 9,
+        "name": "Bed",
+        "description": "Comfortable and stylish bed to transform your bedroom",
+        "price": 499.99
+      },
+      {
+        "id": 10,
+        "name": "Chair",
+        "description": "Chair for your living room comfort.",
+        "price": 79.99
+      }
+    ]
+  }
+}
